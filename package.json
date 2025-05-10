@@ -1,0 +1,14 @@
+{
+    "name": "belajar-cypress",
+    "version": "1.0.0",
+    "description": "Automation Cypress",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specification\" && exit 1"
+    },
+    "author": "Umar",
+    "license": "ISC",
+    "devDependencies": {
+        "cypress": "^14.3.3"
+    }
+}
